@@ -28,5 +28,12 @@
   "homepage": "https://github.com/zkochan/humble-flash#readme",
   "publishConfig": {
     "registry": "http://registry.npmjs.org"
+  },
+  "devDependencies": {
+    "chai": "^3.4.0",
+    "hapi": "^11.0.2",
+    "humble-session": "^0.1.0",
+    "mocha": "^2.3.3",
+    "simple-session-store": "^0.1.1"
   }
 }
