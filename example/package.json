@@ -1,0 +1,18 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^11.0.2",
+    "hapi-vtree": "^0.1.0",
+    "humble-session": "^0.1.0",
+    "simple-session-store": "^0.1.1",
+    "virtual-dom": "^2.1.1"
+  }
+}
