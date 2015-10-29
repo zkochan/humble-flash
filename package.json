@@ -1,6 +1,6 @@
 {
   "name": "humble-flash",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Flash message plugin for humble-session and hapi.",
   "main": "lib/index.js",
   "scripts": {
