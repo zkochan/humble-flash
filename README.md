@@ -24,8 +24,8 @@ registered as well.
 
 ## API
 
-* [`reply.flash`](flash)
-* [`createPreHandler`](createPreHandler)
+* [`reply.flash`](#flash)
+* [`createPreHandler`](#createPreHandler)
 
 
 <a name="flash" />
