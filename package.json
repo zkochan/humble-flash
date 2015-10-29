@@ -1,0 +1,32 @@
+{
+  "name": "humble-flash",
+  "version": "0.0.0",
+  "description": "Flash message plugin for humble-session and hapi.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha test/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zkochan/humble-flash.git"
+  },
+  "keywords": [
+    "hapi",
+    "humble-session",
+    "flash",
+    "messages"
+  ],
+  "author": {
+    "name": "Zoltan Kochan",
+    "email": "zoltan.kochan@gmail.com",
+    "url": "http://kochan.io"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zkochan/humble-flash/issues"
+  },
+  "homepage": "https://github.com/zkochan/humble-flash#readme",
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org"
+  }
+}
